@@ -1,0 +1,10 @@
+[13-May-2015 18:30:19 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/diegojas/public_html/FERRARATRAVELFAIR.MX/send_form_email.php on line 37
+[13-May-2015 18:36:46 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/diegojas/public_html/FERRARATRAVELFAIR.MX/send_form_email.php on line 37
+[13-May-2015 18:40:35 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/diegojas/public_html/FERRARATRAVELFAIR.MX/send_form_email.php on line 37
+[13-May-2015 18:49:22 America/Chicago] PHP Notice:  Undefined variable: subject in /home/diegojas/public_html/FERRARATRAVELFAIR.MX/send_form_email.php on line 51
+[13-May-2015 18:49:22 America/Chicago] PHP Notice:  Undefined variable: message in /home/diegojas/public_html/FERRARATRAVELFAIR.MX/send_form_email.php on line 73
+[13-May-2015 18:49:30 America/Chicago] PHP Notice:  Undefined variable: subject in /home/diegojas/public_html/FERRARATRAVELFAIR.MX/send_form_email.php on line 51
+[13-May-2015 18:49:30 America/Chicago] PHP Notice:  Undefined variable: message in /home/diegojas/public_html/FERRARATRAVELFAIR.MX/send_form_email.php on line 73
+[13-May-2015 18:49:42 America/Chicago] PHP Notice:  Undefined variable: subject in /home/diegojas/public_html/FERRARATRAVELFAIR.MX/send_form_email.php on line 51
+[13-May-2015 18:49:42 America/Chicago] PHP Notice:  Undefined variable: message in /home/diegojas/public_html/FERRARATRAVELFAIR.MX/send_form_email.php on line 73
+[13-May-2015 18:52:22 America/Chicago] PHP Notice:  Undefined variable: subject in /home/diegojas/public_html/FERRARATRAVELFAIR.MX/send_form_email.php on line 51
